@@ -1,0 +1,20 @@
+body{
+    background-color: #eaeaea;
+}
+.img-categori{
+    width: 50px;
+}
+.img-categori:hover{
+    transform: scale(1.2);
+}
+.row-container{
+    background-color: #fff;
+    margin: 0px;
+
+}
+.row-product{
+    background-color: #fff;
+    margin: 0px;
+    padding: 5px;
+    padding-top: 16px;
+}
